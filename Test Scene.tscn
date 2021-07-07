@@ -7,9 +7,6 @@
 
 [node name="Spatial" type="Spatial"]
 
-[node name="Camera" type="Camera" parent="."]
-transform = Transform( 1, 0, 0, 0, 0.866025, 0.5, 0, -0.5, 0.866025, -0.365405, 5.91942, 9.10464 )
-
 [node name="KinematicBody" type="KinematicBody" parent="."]
 script = ExtResource( 1 )
 
@@ -18,3 +15,6 @@ texture = ExtResource( 2 )
 
 [node name="CollisionShape" type="CollisionShape" parent="KinematicBody"]
 shape = SubResource( 1 )
+
+[node name="Camera" type="Camera" parent="KinematicBody"]
+transform = Transform( 1, 0, 0, 0, 0.866025, 0.5, 0, -0.5, 0.866025, -0.365405, 5.91942, 9.10464 )
