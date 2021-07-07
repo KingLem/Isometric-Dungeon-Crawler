@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\My Documents\\Isometric Dungeon Crawler\\Isometric Dungeon Crawler.csproj": {}
+  },
+  "projects": {
+    "D:\\My Documents\\Isometric Dungeon Crawler\\Isometric Dungeon Crawler.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\My Documents\\Isometric Dungeon Crawler\\Isometric Dungeon Crawler.csproj",
+        "projectName": "Isometric Dungeon Crawler",
+        "projectPath": "D:\\My Documents\\Isometric Dungeon Crawler\\Isometric Dungeon Crawler.csproj",
+        "packagesPath": "C:\\Users\\Gigabyte\\.nuget\\packages\\",
+        "outputPath": "D:\\My Documents\\Isometric Dungeon Crawler\\.mono\\temp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gigabyte\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "target": "Package",
+              "version": "[1.0.0, )",
+              "autoReferenced": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

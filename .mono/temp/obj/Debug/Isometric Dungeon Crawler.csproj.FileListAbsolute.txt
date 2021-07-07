@@ -1,0 +1,8 @@
+D:\My Documents\Isometric Dungeon Crawler\.mono\temp\obj\Debug\Isometric Dungeon Crawler.csprojAssemblyReference.cache
+D:\My Documents\Isometric Dungeon Crawler\.mono\temp\obj\Debug\Isometric Dungeon Crawler.csproj.CoreCompileInputs.cache
+D:\My Documents\Isometric Dungeon Crawler\.mono\temp\obj\Debug\Isometric Dungeon Crawler.AssemblyInfoInputs.cache
+D:\My Documents\Isometric Dungeon Crawler\.mono\temp\obj\Debug\Isometric Dungeon Crawler.AssemblyInfo.cs
+D:\My Documents\Isometric Dungeon Crawler\.mono\temp\bin\Debug\Isometric Dungeon Crawler.dll
+D:\My Documents\Isometric Dungeon Crawler\.mono\temp\bin\Debug\Isometric Dungeon Crawler.pdb
+D:\My Documents\Isometric Dungeon Crawler\.mono\temp\obj\Debug\Isometric Dungeon Crawler.dll
+D:\My Documents\Isometric Dungeon Crawler\.mono\temp\obj\Debug\Isometric Dungeon Crawler.pdb
